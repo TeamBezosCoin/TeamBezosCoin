@@ -1,3 +1,4 @@
+[LitePaper 1.06 - Bezos Project Bezos Coin - MIP 01 11 21.pdf](https://github.com/TeamBezosCoin/TeamBezosCoin/files/7486227/LitePaper.1.06.-.Bezos.Project.Bezos.Coin.-.MIP.01.11.21.pdf)
 Hello and Welcome from @TeamBezosCoin .
 
 
