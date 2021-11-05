@@ -6,13 +6,13 @@ ABOUT BezOS Project
 
 BezOS Project is composed by three different high innovative product features.
 
-1-	BezOS Multi-Chain Wallet
+1-	BezOS Multi-Chain Wallet:
 An anonymous and Unbannable Multi-Chain Wallet with Safe-Lock and Ghost Mode Functions.
 
-2-	BezOS Protocol
+2-	BezOS Protocol:
 A Protocol built to guarantee safe data communications and transfers From and To BezOS Multi-Chain Wallet.
 
-3-	BezOS Security Layer-2
+3-	BezOS Security Layer-2:
 A Second Level Layer dedicated to ensure anonymous transactions From and To BezOS Multi-Chain Wallet.
 
 
